@@ -1,0 +1,5 @@
+{
+    "prettier.prettierPath": "./node_modules/bin/prettier",
+    "prettier.printWidth": 100,
+    "prettier.semi": false
+}

@@ -1,0 +1,13 @@
+type User {
+  id: Int
+  email: String
+}
+
+type People {
+  names: [String]
+}
+
+type Query {
+  getCurrentUser: User
+  getSomeData: People
+}
